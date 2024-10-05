@@ -1,4 +1,4 @@
-Main linke:---http://18.216.0.50:5000/
+Main link:---http://18.216.0.50:5000/
 
 
 1)ALL THE MAIN FILES ARE LOCATED IN THE (TEMPLATE) FOLDER.
